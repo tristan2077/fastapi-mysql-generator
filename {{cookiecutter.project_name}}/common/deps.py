@@ -1,17 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2020/10/16 11:51
-# @Author  : CoderCharm
-# @File    : deps.py
-# @Software: PyCharm
-# @Github  : github/CoderCharm
-# @Email   : wg_python@163.com
-# @Desc    :
-"""
-
-一些通用的依赖功能
-
-"""
 from typing import Generator, Any, Union, Optional
 
 from jose import jwt
