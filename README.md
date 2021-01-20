@@ -125,7 +125,7 @@ https://github.com/tiangolo/full-stack-fastapi-postgresql
 
 ```
 pip install cookiecutter
-cookiecutter https://github.com/CoderCharm/fastapi-mysql-generator
+cookiecutter https://github.com/tristan2077/fastapi-mysql-generator
 
 cd your_project/
 # 安装依赖库
